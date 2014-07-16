@@ -1,0 +1,16 @@
+<Alloy>
+	<Window class="container">
+		<ScrollView layout="vertical">
+			<!-- <View id="menuView"> -->
+				<Button id="buttonMap">View Map</Button>
+				<Button id="buttonManualMode">Manual Mode</Button>
+				<Button id="buttonSimpleMode">Simple Mode</Button>
+			<!-- </View> -->
+			<!-- <View id="viewInfo"> -->
+				<Label text="Info" id="labelInfo"></Label>
+				<TextArea id="textAreaInfo"></TextArea>
+			<!-- </View> -->
+			
+		</ScrollView>
+	</Window>
+</Alloy>

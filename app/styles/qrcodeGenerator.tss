@@ -1,0 +1,20 @@
+".container" : {
+  backgroundColor: "#fff",
+  height: "100%"
+},
+"#txtqr":{
+	color: "#000"
+},
+"Button":{
+	width: "33%",
+},
+"#btnGenerate[platform=ios]":{
+	width: "100%"
+},
+"#vSampleBtn":{
+	height: Ti.UI.SIZE
+},
+"#webqr":{
+	height: Ti.UI.FILL,
+	bottom: 0
+}

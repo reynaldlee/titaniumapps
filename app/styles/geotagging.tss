@@ -1,0 +1,24 @@
+
+".container" : {
+	layout : "vertical", 
+},
+"#menuView" :{
+	backgroundColor : '#fff',
+	layout : "horizontal",
+	height : Ti.UI.SIZE
+}
+"#buttonManualMode" :{
+	width : "50%",
+},
+"#buttonSimpleMode" :{
+	width : "50%",
+},
+"#viewInfo" : {
+	backgroundColor : '#fff',
+	width : Ti.UI.FILL,
+	layout: "vertical"
+},
+"#textAreaInfo" : {
+	width : Ti.UI.FILL,
+	height : Ti.UI.SIZE
+}

@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TextField id="txtBarcode" hintText="Enter Text Here"/>
+		<Button id="btnGenBC" onClick="generateBC">Generate Barcode</Button>
+		<Label id="lblBC"></Label>
+	</Window>
+</Alloy>

@@ -1,0 +1,30 @@
+
+".container" : {
+	navBarHidden : true	
+}
+
+"#minibar" :{
+	backgroundColor : "#fff",
+	zIndex : 2,
+	height : Ti.UI.SIZE,
+	width : "90",
+	bottom: 10, left : 10,
+	opacity : 0.8
+}
+
+"#labelRad" : {
+	top : 10, left : 10,
+	width : 40,
+	color : "#000"
+}
+
+"#textViewSearch" : {
+	top : 3, right : 3,
+	bottom : 3, left : 43,
+	width : 40,
+	color : "#000",
+	zIndex: 3,
+	backgroundColor : "#fff",
+	borderWidth : 1,
+	borderColor : "#000"
+}

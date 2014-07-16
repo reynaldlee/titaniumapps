@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container" id="win">
+		<LoginButton id="fbButton" ns="Alloy.Globals.Facebook"/>
+		<View id="viewMenu">
+			<Label text="Menu"/>
+			<Button id="buttonShowProfile" class="menu">Profile</Button>
+			<Button id="buttonCreateEvent" class="menu">Create Event</Button>
+			<Button id="buttonPostStatus" class="menu">Post Status</Button>
+			<Button id="buttonFacebookDialog" class="menu">Facebook Dialog</Button>
+		</View>
+	</Window>
+</Alloy>

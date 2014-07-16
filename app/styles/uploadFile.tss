@@ -1,0 +1,17 @@
+
+".container" : {
+  layout : "vertical"
+}
+
+"#progressBarUpload" : {
+	width:200,
+	height:50,
+	min:0,
+	max:1,
+	value:0,
+	// style:Titanium.UI.iPhone.ProgressBarStyle.PLAIN,
+	top:10,
+	message:'Uploading',
+	font:{fontSize:12, fontWeight:'bold'},
+	color:'#888'
+}

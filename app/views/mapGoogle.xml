@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="viewMap" class="container">
+		<View id="minibar">
+			<Label id="labelRad">Rad</Label>
+			<TextField id="textViewSearch" onReturn="setRadius"></TextField>
+		</View>
+	</Window>
+</Alloy>

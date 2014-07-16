@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" id="mainwindow">
+		<!-- <Label id="label" onClick="doClick">Hello, World</Label> -->
+		<Button id="scannerButton">Start Scanner</Button>
+		<Button id="barcodeGeneratorButton">Barcode Generator</Button>
+		<Button id="qrCodeGeneratorButton">QrCode Barcode</Button>
+	</Window>
+</Alloy>

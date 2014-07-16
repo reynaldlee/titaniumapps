@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" id="win">
+		<ProgressBar id="progressBarUpload"></ProgressBar>
+		<Label>Non cloud</Label>
+		<Button id="buttonUploadFile">Upload File</Button>
+		<Button id="buttonDownloadFile">Download File</Button>
+		<ImageView id="image"></ImageView>
+	</Window>
+</Alloy>

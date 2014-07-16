@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<View id="viewPaint"></View>
+		<Button id="save" onClick="saveButton">save</Button>
+		<ImageView id="showPaint"></ImageView>
+		<Label id="blob"></Label>
+	</Window>
+</Alloy>

@@ -1,0 +1,18 @@
+
+".container" : {
+  layout : "vertical",
+  backgroundColor : '#fff'
+}
+
+"#viewPaint" : {
+	height : "30%",
+	top : "5",
+	borderWidth : "1",
+	borderColor : "black"
+}
+
+"#showPaint" : {
+	height : "30%",
+	borderWidth : "1",
+	borderColor : "red"
+}

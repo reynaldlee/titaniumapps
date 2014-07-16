@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<WebView url="generator_barcode.html"></WebView>
+	</Window>
+</Alloy>

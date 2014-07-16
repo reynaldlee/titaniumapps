@@ -1,0 +1,19 @@
+".container" : {
+  backgroundColor: "#fff"
+},
+"#txtBarcode":{
+	width: "80%",
+	color: "#000"
+},
+"#lblBC[platform=android]":{
+	font:{
+		fontFamily: "IDAutomationHC39M",
+		fontSize: 20
+	}
+},
+"#lblBC[platform=ios]":{
+	font:{
+		fontFamily: "IDAutomationHC39M",
+		fontSize: 20
+	}
+}

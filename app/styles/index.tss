@@ -1,0 +1,9 @@
+".container": {
+	backgroundColor:"white",
+	layout :"vertical",
+	exitOnClose : true
+}
+
+"Button" : {
+	width : Ti.UI.FILL
+}

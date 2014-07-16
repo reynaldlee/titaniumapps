@@ -1,0 +1,13 @@
+<Alloy>
+	<Window  class="container" layout="vertical" title="QR CODE">
+		<TextField id="txtqr" hintText="Please Enter Text"></TextField>
+		<Button id="btnGenerate" onClick="convertText">Generate QR Code</Button>
+		<Label>Below is sample qr code</Label>
+		<View id="vSampleBtn" layout="horizontal">
+			<Button id="btnMailto" onClick="convertMailto">Email</Button>
+			<Button id="btnWebsite" onClick="convertWebsite">Website</Button>
+			<Button id="btnContact" onClick="convertContact">Contact</Button>
+		</View>
+		<WebView id="webqr" url="/qrcodeLib/qrcode.html"></WebView>
+	</Window>
+</Alloy>

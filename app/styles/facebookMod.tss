@@ -1,0 +1,16 @@
+
+".container": {
+	layout: "vertical"
+}
+
+"#fbButton": {
+	right: 5
+}
+
+"#viewMenu": {
+	layout: "vertical"
+}
+
+".menu": {
+	width: Ti.UI.FILL
+}
